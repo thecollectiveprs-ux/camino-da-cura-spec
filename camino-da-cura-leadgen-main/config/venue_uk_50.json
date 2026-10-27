@@ -1,0 +1,94 @@
+{
+  "name": "Camino da Cura",
+  "website": "https://caminodacura.com/",
+  "location": "Near Vinhó / Coja, Coimbra region, Portugal",
+  "booking_model": {
+    "value": "exclusive venue hire for organisers bringing their own groups",
+    "status": "owner_reported"
+  },
+  "ideal_group_size": {
+    "min": 10,
+    "max": 15,
+    "basis": "total participants; verify facilitator accommodation separately"
+  },
+  "bedrooms": 5,
+  "accommodation": "private/shared farmhouse rooms",
+  "facilities": [
+    "yoga and group practice spaces",
+    "outdoor swimming pool",
+    "sauna",
+    "ice tub",
+    "meditation spaces",
+    "therapy/treatment room",
+    "natural outdoor spaces"
+  ],
+  "steam_room": {
+    "status": "owner_reported_awaiting_website_confirmation"
+  },
+  "website_evidence": {
+    "url": "https://caminodacura.com/",
+    "retrieved_at": "2026-10-12",
+    "confirms": [
+      "five bedrooms",
+      "ideal groups 10–15",
+      "facilities"
+    ]
+  },
+  "weights": {
+    "residential_experience": 40,
+    "compatible_group": 25,
+    "international_experience": 0,
+    "relevant_activity": 15,
+    "external_venues": 10,
+    "recent_activity": 10
+  },
+  "thresholds": {
+    "A": 80,
+    "B": 60
+  },
+  "recent_activity_days": 365,
+  "allowed_base_countries": [
+    "United Kingdom"
+  ],
+  "international_reference_country": "United Kingdom",
+  "preferred_destinations": [],
+  "european_destinations": [
+    "Portugal",
+    "Spain",
+    "France",
+    "Italy",
+    "Greece",
+    "Germany",
+    "Croatia",
+    "Ireland",
+    "United Kingdom",
+    "Austria",
+    "Switzerland",
+    "Netherlands",
+    "Belgium"
+  ],
+  "priorities": {
+    "1": [
+      "yoga",
+      "wellness",
+      "meditation",
+      "mindfulness"
+    ],
+    "2": [
+      "pilates",
+      "breathwork",
+      "holistic",
+      "creative",
+      "leadership",
+      "corporate"
+    ],
+    "3": [
+      "yoga_studio",
+      "wellness_studio"
+    ]
+  },
+  "destination_policy": "any_country",
+  "search_price_usd_per_1000": 5,
+  "search_price_source": "https://brave.com/search/api/",
+  "search_price_checked": "2026-10-14"
+}

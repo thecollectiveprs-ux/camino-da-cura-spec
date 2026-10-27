@@ -1,0 +1,73 @@
+{
+  "name": "camino-uk-50",
+  "niche": "retreat organiser",
+  "locations": [
+    "UK",
+    "England",
+    "Scotland"
+  ],
+  "terms": [
+    "residential retreats"
+  ],
+  "target_prospects": 50,
+  "search_country": "GB",
+  "max_requests": 40,
+  "results_per_query": 20,
+  "interval_seconds": 1,
+  "retries": 0,
+  "query_groups": [
+    {
+      "niche": "yoga teacher retreats",
+      "terms": [
+        "residential weekend",
+        "retreat leader overnight",
+        "retreats 2027"
+      ]
+    },
+    {
+      "niche": "Pilates instructor retreats",
+      "terms": [
+        "residential weekend",
+        "organises retreats",
+        "retreats 2027"
+      ]
+    },
+    {
+      "niche": "wellness practitioner retreats",
+      "terms": [
+        "residential overnight",
+        "retreat leader weekend",
+        "retreats 2027"
+      ]
+    },
+    {
+      "niche": "meditation mindfulness teacher retreats",
+      "terms": [
+        "residential weekend",
+        "retreat organiser",
+        "retreats 2027"
+      ]
+    },
+    {
+      "niche": "breathwork facilitator retreats",
+      "terms": [
+        "residential overnight",
+        "retreat leader",
+        "retreats 2027"
+      ]
+    },
+    {
+      "niche": "creative retreat leader",
+      "terms": [
+        "residential weekend",
+        "organises retreats",
+        "retreats 2027"
+      ]
+    }
+  ],
+  "filter_candidates": true,
+  "query_exclusions": [],
+  "organiser_mode": true,
+  "minimum_queries": 6,
+  "require_retreat_signal": true
+}

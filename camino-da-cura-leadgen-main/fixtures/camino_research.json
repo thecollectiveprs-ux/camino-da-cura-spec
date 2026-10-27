@@ -1,0 +1,358 @@
+[
+  {
+    "company_name": "Synthetic UK Yoga Organiser",
+    "website": "https://mock-yoga.example",
+    "claims": [
+      {
+        "kind": "base_country",
+        "source_url": "https://mock-yoga.example/research",
+        "retrieved_at": "2026-10-12",
+        "excerpt": "Synthetic reviewed source text for base_country",
+        "reviewed": true,
+        "fact_status": "documented",
+        "value": "United Kingdom"
+      },
+      {
+        "kind": "business_type",
+        "source_url": "https://mock-yoga.example/research",
+        "retrieved_at": "2026-10-12",
+        "excerpt": "Synthetic reviewed source text for business_type",
+        "reviewed": true,
+        "fact_status": "documented",
+        "value": "yoga"
+      },
+      {
+        "kind": "organises_retreats",
+        "source_url": "https://mock-yoga.example/research",
+        "retrieved_at": "2026-10-12",
+        "excerpt": "Synthetic reviewed source text for organises_retreats",
+        "reviewed": true,
+        "fact_status": "documented",
+        "value": true
+      },
+      {
+        "kind": "residential_event",
+        "source_url": "https://mock-yoga.example/research",
+        "retrieved_at": "2026-10-12",
+        "excerpt": "Synthetic reviewed source text for residential_event",
+        "reviewed": true,
+        "fact_status": "documented",
+        "occurred": true,
+        "event_date": "2026-05-01",
+        "country": "Portugal",
+        "evidence_type": "recap"
+      },
+      {
+        "kind": "group_size",
+        "source_url": "https://mock-yoga.example/research",
+        "retrieved_at": "2026-10-12",
+        "excerpt": "Synthetic reviewed source text for group_size",
+        "reviewed": true,
+        "fact_status": "documented",
+        "value": 12,
+        "basis": "total_participants"
+      },
+      {
+        "kind": "external_venues",
+        "source_url": "https://mock-yoga.example/research",
+        "retrieved_at": "2026-10-12",
+        "excerpt": "Synthetic reviewed source text for external_venues",
+        "reviewed": true,
+        "fact_status": "documented",
+        "value": true
+      },
+      {
+        "kind": "activity",
+        "source_url": "https://mock-yoga.example/research",
+        "retrieved_at": "2026-10-12",
+        "excerpt": "Synthetic reviewed source text for activity",
+        "reviewed": true,
+        "fact_status": "documented",
+        "activity_date": "2027-05-01",
+        "activity_type": "upcoming_retreat"
+      },
+      {
+        "kind": "contact",
+        "source_url": "https://mock-yoga.example/research",
+        "retrieved_at": "2026-10-12",
+        "excerpt": "Synthetic reviewed source text for contact",
+        "reviewed": true,
+        "fact_status": "documented",
+        "email": "hello@mock-yoga.example",
+        "email_type": "generic_business"
+      },
+      {
+        "kind": "legal_form",
+        "source_url": "https://mock-yoga.example/research",
+        "retrieved_at": "2026-10-12",
+        "excerpt": "Synthetic reviewed source text for legal_form",
+        "reviewed": true,
+        "fact_status": "documented",
+        "value": "limited_company",
+        "jurisdiction": "United Kingdom"
+      }
+    ]
+  },
+  {
+    "company_name": "Synthetic Meditation Organiser",
+    "website": "https://mock-meditation.example",
+    "claims": [
+      {
+        "kind": "base_country",
+        "source_url": "https://mock-meditation.example/research",
+        "retrieved_at": "2026-10-12",
+        "excerpt": "Synthetic reviewed source text for base_country",
+        "reviewed": true,
+        "fact_status": "documented",
+        "value": "United Kingdom"
+      },
+      {
+        "kind": "business_type",
+        "source_url": "https://mock-meditation.example/research",
+        "retrieved_at": "2026-10-12",
+        "excerpt": "Synthetic reviewed source text for business_type",
+        "reviewed": true,
+        "fact_status": "documented",
+        "value": "meditation"
+      },
+      {
+        "kind": "organises_retreats",
+        "source_url": "https://mock-meditation.example/research",
+        "retrieved_at": "2026-10-12",
+        "excerpt": "Synthetic reviewed source text for organises_retreats",
+        "reviewed": true,
+        "fact_status": "documented",
+        "value": true
+      },
+      {
+        "kind": "residential_event",
+        "source_url": "https://mock-meditation.example/research",
+        "retrieved_at": "2026-10-12",
+        "excerpt": "Synthetic reviewed source text for residential_event",
+        "reviewed": true,
+        "fact_status": "documented",
+        "occurred": true,
+        "event_date": "2026-05-01",
+        "country": "Portugal",
+        "evidence_type": "recap"
+      },
+      {
+        "kind": "external_venues",
+        "source_url": "https://mock-meditation.example/research",
+        "retrieved_at": "2026-10-12",
+        "excerpt": "Synthetic reviewed source text for external_venues",
+        "reviewed": true,
+        "fact_status": "documented",
+        "value": true
+      },
+      {
+        "kind": "activity",
+        "source_url": "https://mock-meditation.example/research",
+        "retrieved_at": "2026-10-12",
+        "excerpt": "Synthetic reviewed source text for activity",
+        "reviewed": true,
+        "fact_status": "documented",
+        "activity_date": "2027-05-01",
+        "activity_type": "upcoming_retreat"
+      },
+      {
+        "kind": "contact",
+        "source_url": "https://mock-meditation.example/research",
+        "retrieved_at": "2026-10-12",
+        "excerpt": "Synthetic reviewed source text for contact",
+        "reviewed": true,
+        "fact_status": "documented",
+        "email": "hello@mock-yoga.example",
+        "email_type": "generic_business"
+      },
+      {
+        "kind": "legal_form",
+        "source_url": "https://mock-meditation.example/research",
+        "retrieved_at": "2026-10-12",
+        "excerpt": "Synthetic reviewed source text for legal_form",
+        "reviewed": true,
+        "fact_status": "documented",
+        "value": "limited_company",
+        "jurisdiction": "United Kingdom"
+      }
+    ]
+  },
+  {
+    "company_name": "Synthetic Venue Only",
+    "website": "https://mock-venue.example",
+    "claims": [
+      {
+        "kind": "base_country",
+        "source_url": "https://mock-venue.example/research",
+        "retrieved_at": "2026-10-12",
+        "excerpt": "Synthetic reviewed source text for base_country",
+        "reviewed": true,
+        "fact_status": "documented",
+        "value": "United Kingdom"
+      },
+      {
+        "kind": "solely_venue",
+        "source_url": "https://mock-venue.example/research",
+        "retrieved_at": "2026-10-12",
+        "excerpt": "Synthetic reviewed source text for solely_venue",
+        "reviewed": true,
+        "fact_status": "documented",
+        "value": true
+      }
+    ]
+  },
+  {
+    "company_name": "Synthetic Large Group Organiser",
+    "website": "https://mock-large.example",
+    "claims": [
+      {
+        "kind": "base_country",
+        "source_url": "https://mock-large.example/research",
+        "retrieved_at": "2026-10-12",
+        "excerpt": "Synthetic reviewed source text for base_country",
+        "reviewed": true,
+        "fact_status": "documented",
+        "value": "United Kingdom"
+      },
+      {
+        "kind": "business_type",
+        "source_url": "https://mock-large.example/research",
+        "retrieved_at": "2026-10-12",
+        "excerpt": "Synthetic reviewed source text for business_type",
+        "reviewed": true,
+        "fact_status": "documented",
+        "value": "yoga"
+      },
+      {
+        "kind": "organises_retreats",
+        "source_url": "https://mock-large.example/research",
+        "retrieved_at": "2026-10-12",
+        "excerpt": "Synthetic reviewed source text for organises_retreats",
+        "reviewed": true,
+        "fact_status": "documented",
+        "value": true
+      },
+      {
+        "kind": "residential_event",
+        "source_url": "https://mock-large.example/research",
+        "retrieved_at": "2026-10-12",
+        "excerpt": "Synthetic reviewed source text for residential_event",
+        "reviewed": true,
+        "fact_status": "documented",
+        "occurred": true,
+        "event_date": "2026-05-01",
+        "country": "Portugal",
+        "evidence_type": "recap"
+      },
+      {
+        "kind": "group_size",
+        "source_url": "https://mock-large.example/research",
+        "retrieved_at": "2026-10-12",
+        "excerpt": "Synthetic reviewed source text for group_size",
+        "reviewed": true,
+        "fact_status": "documented",
+        "value": 40,
+        "basis": "total_participants"
+      },
+      {
+        "kind": "external_venues",
+        "source_url": "https://mock-large.example/research",
+        "retrieved_at": "2026-10-12",
+        "excerpt": "Synthetic reviewed source text for external_venues",
+        "reviewed": true,
+        "fact_status": "documented",
+        "value": true
+      },
+      {
+        "kind": "activity",
+        "source_url": "https://mock-large.example/research",
+        "retrieved_at": "2026-10-12",
+        "excerpt": "Synthetic reviewed source text for activity",
+        "reviewed": true,
+        "fact_status": "documented",
+        "activity_date": "2027-05-01",
+        "activity_type": "upcoming_retreat"
+      },
+      {
+        "kind": "contact",
+        "source_url": "https://mock-large.example/research",
+        "retrieved_at": "2026-10-12",
+        "excerpt": "Synthetic reviewed source text for contact",
+        "reviewed": true,
+        "fact_status": "documented",
+        "email": "hello@mock-yoga.example",
+        "email_type": "generic_business"
+      },
+      {
+        "kind": "legal_form",
+        "source_url": "https://mock-large.example/research",
+        "retrieved_at": "2026-10-12",
+        "excerpt": "Synthetic reviewed source text for legal_form",
+        "reviewed": true,
+        "fact_status": "documented",
+        "value": "limited_company",
+        "jurisdiction": "United Kingdom"
+      }
+    ]
+  },
+  {
+    "company_name": "Synthetic Wellness Studio",
+    "website": "https://mock-studio.example",
+    "claims": [
+      {
+        "kind": "base_country",
+        "source_url": "https://mock-studio.example/research",
+        "retrieved_at": "2026-10-12",
+        "excerpt": "Synthetic reviewed source text for base_country",
+        "reviewed": true,
+        "fact_status": "documented",
+        "value": "United Kingdom"
+      },
+      {
+        "kind": "business_type",
+        "source_url": "https://mock-studio.example/research",
+        "retrieved_at": "2026-10-12",
+        "excerpt": "Synthetic reviewed source text for business_type",
+        "reviewed": true,
+        "fact_status": "documented",
+        "value": "wellness_studio"
+      }
+    ]
+  },
+  {
+    "company_name": "Synthetic Advert Only",
+    "website": "https://mock-advert.example",
+    "claims": [
+      {
+        "kind": "base_country",
+        "source_url": "https://mock-advert.example/research",
+        "retrieved_at": "2026-10-12",
+        "excerpt": "Synthetic reviewed source text for base_country",
+        "reviewed": true,
+        "fact_status": "documented",
+        "value": "United Kingdom"
+      },
+      {
+        "kind": "business_type",
+        "source_url": "https://mock-advert.example/research",
+        "retrieved_at": "2026-10-12",
+        "excerpt": "Synthetic reviewed source text for business_type",
+        "reviewed": true,
+        "fact_status": "documented",
+        "value": "yoga"
+      },
+      {
+        "kind": "residential_event",
+        "source_url": "https://mock-advert.example/research",
+        "retrieved_at": "2026-10-12",
+        "excerpt": "Synthetic reviewed source text for residential_event",
+        "reviewed": true,
+        "fact_status": "documented",
+        "occurred": true,
+        "event_date": "2024-05-01",
+        "country": "Spain",
+        "evidence_type": "advertisement"
+      }
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "name": "yoga-uk",
+  "niche": "yoga retreat",
+  "locations": [
+    "United Kingdom",
+    "England",
+    "Scotland",
+    "Wales",
+    "Northern Ireland"
+  ],
+  "terms": [
+    "organiser",
+    "company",
+    "organised retreats",
+    "retreat holidays"
+  ],
+  "target_qualified": 100,
+  "max_requests": 20,
+  "results_per_query": 20,
+  "interval_seconds": 1,
+  "retries": 2
+}

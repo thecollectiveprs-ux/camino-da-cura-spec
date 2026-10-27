@@ -1,0 +1,64 @@
+{
+  "name": "camino-uk",
+  "niche": "retreat organiser",
+  "locations": [
+    "United Kingdom",
+    "England",
+    "Scotland",
+    "Wales",
+    "Northern Ireland"
+  ],
+  "terms": [
+    "residential retreats"
+  ],
+  "target_prospects": 100,
+  "search_country": "GB",
+  "max_requests": 60,
+  "results_per_query": 20,
+  "interval_seconds": 1,
+  "retries": 2,
+  "query_groups": [
+    {
+      "niche": "yoga retreat organiser",
+      "terms": [
+        "\"UK based\" Portugal Spain Europe residential",
+        "\"yoga teacher\" \"retreats abroad\""
+      ]
+    },
+    {
+      "niche": "yoga instructor retreat programme",
+      "terms": [
+        "\"United Kingdom\" \"Portugal\"",
+        "\"UK based\" \"residential\""
+      ]
+    },
+    {
+      "niche": "Pilates wellness retreat organiser",
+      "terms": [
+        "\"UK based\" international Europe",
+        "\"teacher\" \"Spain\""
+      ]
+    },
+    {
+      "niche": "meditation mindfulness retreats",
+      "terms": [
+        "\"UK based\" \"residential\" Europe"
+      ]
+    },
+    {
+      "niche": "small group retreat organiser",
+      "terms": [
+        "\"UK based\" Portugal Spain"
+      ]
+    }
+  ],
+  "filter_candidates": true,
+  "query_exclusions": [
+    "-site:bookretreats.com",
+    "-site:bookyogaretreats.com",
+    "-site:retreathub.com",
+    "-site:timeout.com",
+    "-\"venues for hire\"",
+    "-\"best retreats\""
+  ]
+}

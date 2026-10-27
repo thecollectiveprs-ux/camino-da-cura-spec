@@ -1,0 +1,68 @@
+{
+  "name": "camino-organisers",
+  "niche": "retreat organiser",
+  "locations": [
+    "UK",
+    "London UK",
+    "Bristol UK"
+  ],
+  "terms": [
+    "residential retreats"
+  ],
+  "target_prospects": 100,
+  "search_country": "GB",
+  "max_requests": 6,
+  "results_per_query": 20,
+  "interval_seconds": 1,
+  "retries": 0,
+  "query_groups": [
+    {
+      "niche": "yoga teacher retreats",
+      "terms": [
+        "Portugal",
+        "Spain residential",
+        "Europe 2027"
+      ]
+    },
+    {
+      "niche": "Pilates instructor retreats",
+      "terms": [
+        "Spain",
+        "Italy residential",
+        "Europe 2027"
+      ]
+    },
+    {
+      "niche": "wellness practitioner retreats",
+      "terms": [
+        "Europe",
+        "Portugal residential"
+      ]
+    },
+    {
+      "niche": "meditation teacher retreats",
+      "terms": [
+        "Spain",
+        "Europe residential"
+      ]
+    },
+    {
+      "niche": "breathwork facilitator retreats",
+      "terms": [
+        "Europe",
+        "Portugal residential"
+      ]
+    },
+    {
+      "niche": "creative retreat organiser",
+      "terms": [
+        "Italy",
+        "Europe residential"
+      ]
+    }
+  ],
+  "filter_candidates": true,
+  "query_exclusions": [],
+  "organiser_mode": true,
+  "minimum_queries": 3
+}

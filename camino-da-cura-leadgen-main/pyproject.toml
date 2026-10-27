@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "b2b-lead-agent"
+version = "0.1.0"
+description = "Evidence-first B2B prospect discovery"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.scripts]
+lead-agent = "leadgen.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["leadgen*"]
